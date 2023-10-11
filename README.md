@@ -15,7 +15,10 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
-    <li>Bootstrap</li><br>
+    <li>Bootstrap</li>
+    <li>Google Map API</li>
+    <li>Kakao Map API</li>
+    <br>
     <li>Git</li>
     <li>Notion</li>
 </ul>
