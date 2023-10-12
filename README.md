@@ -16,7 +16,7 @@
     <li>CSS</li>
     <li>Javascript</li>
     <li>Bootstrap</li>
-    <li>Google Map API</li>
+    <li>Google Chart API</li>
     <li>Kakao Map API</li>
     <br>
     <li>Git</li>
